@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>knowrob_ameva</name>
+  <version>0.1.0</version>
+  <description>The knowrob_ameva package</description>
+
+  <maintainer email="xiaojun.real@outlook.com">Xiaojun Lan</maintainer>
+
+  <author>Xiaojun Lan</author>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+</package>
